@@ -25,5 +25,5 @@ namespace Sandbox
         {
             return salaryPerMonth;
         }
-    }
+    } //Examined
 }
